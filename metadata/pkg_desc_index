@@ -11,6 +11,8 @@ dev-util/rebar3 3.3.4 9999: Erlang build tool that makes it easy to compile and 
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
 media-sound/mumble 9999: Mumble is an open source, low-latency, high quality voice chat software
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
+net-misc/batctl 2016.5: BATMAN advanced control and management tool
+net-misc/batman-adv 2016.5: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
 net-wireless/aircrack-ng 1.2_rc4: WLAN tools for breaking 802.11 WEP/WPA keys
 net-wireless/luaradio 9999: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
 net-wireless/soapyremote 9999: remote support for Soapy SDR
