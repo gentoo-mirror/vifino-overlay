@@ -10,5 +10,5 @@ RDEPEND=app-arch/bzip2 app-arch/xz-utils dev-db/sqlite !libressl? ( dev-libs/ope
 SLOT=0
 SRC_URI=http://nixos.org/releases/nix/nix-1.11.6/nix-1.11.6.tar.xz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_configure:- src_install:-
-_eclasses_=readme.gentoo-r1	03878c06495db70bc36bd717383c09f7	user	e10ccb95af96d45f86016fa982a949bb
+_eclasses_=readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986	user	e4b567c44272a719fabf53f0f885d3f7
 _md5_=f1f3b853db3da5692b54b5791d64a73c
