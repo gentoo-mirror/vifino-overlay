@@ -21,6 +21,7 @@ sci-libs/liquid-dsp 9999: Software-Defined Radio Digital Signal Processing Libra
 sci-libs/volk 9999: vector optimized library of kernels
 sys-apps/nix 1.11.6-r1: A purely functional package manager
 sys-auth/pam_mount 2.16: A PAM module that can mount volumes for a user session
+sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
 www-client/luakit 9999: fast, small, webkit-gtk based micro-browser extensible by lua
 x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
 x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
