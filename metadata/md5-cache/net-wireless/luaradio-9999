@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=>=dev-lang/luajit-2.0.4 rt? ( sci-libs/volk sci-libs/liquid-dsp sci-libs/fftw )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
-_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=c350a8146a59e0c80d5fd94ee9e27278

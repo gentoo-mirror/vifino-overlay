@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=luajit? ( dev-lang/luajit:2 ) !luajit? ( >=dev-lang/lua-5.1 ) dev-db/sqlite:3 dev-libs/glib:2 dev-libs/libunique:1 net-libs/libsoup:2.4 net-libs/webkit-gtk:2 x11-libs/gtk+:2 dev-lua/luafilesystem vim-syntax? ( || ( app-editors/vim app-editors/gvim ) )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_compile:- src_install:-
-_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=a17f8b24b79b46fd650ba399a6c3ab09
