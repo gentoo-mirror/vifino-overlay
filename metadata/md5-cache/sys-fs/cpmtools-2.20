@@ -8,5 +8,4 @@ LICENSE=GPL-3
 RDEPEND=sys-libs/ncurses
 SLOT=0
 SRC_URI=http://www.moria.de/~michael/cpmtools/files/cpmtools-2.20.tar.gz
-_eclass_exported_funcs=src_configure:- src_install:-
 _md5_=50b46548160a0ade310294d292c4ddb2

@@ -7,6 +7,5 @@ IUSE=bash-completion zsh-completion
 LICENSE=Apache
 RDEPEND=dev-lang/erlang
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
 _eclasses_=bash-completion-r1	8e447753aaf658afa609fbf961d80ab7	git-r3	4f7ddb4119309845d6687213171ab445	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=2296b1033cd9c3b0eec1c853a9d5330a
