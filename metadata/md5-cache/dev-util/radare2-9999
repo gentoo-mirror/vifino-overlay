@@ -7,5 +7,5 @@ IUSE=ssl libressl +zip capstone
 LICENSE=LGPL-3
 RDEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone )
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
 _md5_=77af872e0fc696322b3118519718af0b
