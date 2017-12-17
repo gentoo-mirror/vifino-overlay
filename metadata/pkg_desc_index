@@ -1,32 +1,3 @@
-app-misc/openrazer 9999: Razer Drivers for Linux
-app-misc/polychromatic 9999: A graphical front end for managing Razer peripherals under GNU/Linux.
-dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
-dev-lang/elixir 1.4.0: Elixir programming language
-dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
-dev-lang/ruby 2.1.10: An object-oriented scripting language
-dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
-dev-python/daemonize 2.4.7: daemonize is a library for writing system daemons in Python
-dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
-dev-util/radare2 9999: Advanced command line hexadecimal editor and more
-dev-util/rebar3 3.3.4 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
-games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
-media-sound/mumble 9999: Mumble is an open source, low-latency, high quality voice chat software
+dev-util/rebar3 3.3.4: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
-net-misc/batctl 2016.5: BATMAN advanced control and management tool
-net-misc/batman-adv 2016.5: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
-net-wireless/aircrack-ng 1.2_rc4: WLAN tools for breaking 802.11 WEP/WPA keys
-net-wireless/luaradio 9999: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
-net-wireless/soapyremote 9999: remote support for Soapy SDR
-net-wireless/soapyuhd 9999: Soapy SDR plugins for UHD devices
-sci-libs/liquid-dsp 9999: Software-Defined Radio Digital Signal Processing Library
-sci-libs/volk 9999: vector optimized library of kernels
-sys-apps/nix 1.11.6-r1: A purely functional package manager
-sys-auth/pam_mount 2.16: A PAM module that can mount volumes for a user session
 sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
-www-client/luakit 9999: fast, small, webkit-gtk based micro-browser extensible by lua
-x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
-x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
-x11-misc/polybar 9999: A fast and easy-to-use tool for creating status bars.
-x11-misc/wmutils-core 9999: Set of window manipulation tools
-x11-misc/wmutils-opt 9999: Optional addons to wmutils-core
-x11-misc/xrq 9999: X Resource Query, A program for querying the X Resources Database from the command line
