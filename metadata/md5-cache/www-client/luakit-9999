@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile install prepare unpack
-DEPEND=virtual/pkgconfig sys-apps/help2man pax_kernel? ( sys-apps/elfix ) luajit? ( dev-lang/luajit:2 ) !luajit? ( >=dev-lang/lua-5.1 ) dev-db/sqlite:3 dev-libs/glib:2 dev-libs/libunique:1 net-libs/libsoup:2.4 net-libs/webkit-gtk:2 x11-libs/gtk+:2 >=dev-vcs/git-1.8.2.1
+DEPEND=virtual/pkgconfig sys-apps/help2man pax_kernel? ( sys-apps/elfix ) luajit? ( dev-lang/luajit:2 ) !luajit? ( >=dev-lang/lua-5.1 ) dev-db/sqlite:3 dev-libs/glib:2 dev-libs/libunique:1 net-libs/libsoup:2.4 net-libs/webkit-gtk:2 x11-libs/gtk+:2 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=fast, small, webkit-gtk based micro-browser extensible by lua
 EAPI=5
 HOMEPAGE=http://mason-larobina.github.com/luakit/
@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=luajit? ( dev-lang/luajit:2 ) !luajit? ( >=dev-lang/lua-5.1 ) dev-db/sqlite:3 dev-libs/glib:2 dev-libs/libunique:1 net-libs/libsoup:2.4 net-libs/webkit-gtk:2 x11-libs/gtk+:2 dev-lua/luafilesystem vim-syntax? ( || ( app-editors/vim app-editors/gvim ) )
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
 _md5_=a17f8b24b79b46fd650ba399a6c3ab09

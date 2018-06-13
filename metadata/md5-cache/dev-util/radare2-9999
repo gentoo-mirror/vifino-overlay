@@ -1,5 +1,5 @@
 DEFINED_PHASES=configure unpack
-DEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1
+DEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Advanced command line hexadecimal editor and more
 EAPI=5
 HOMEPAGE=http://www.radare.org
@@ -7,5 +7,5 @@ IUSE=ssl libressl +zip capstone
 LICENSE=LGPL-3
 RDEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone )
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=77af872e0fc696322b3118519718af0b
