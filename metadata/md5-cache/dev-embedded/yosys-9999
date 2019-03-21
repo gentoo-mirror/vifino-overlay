@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile configure install setup unpack
-DEPEND=|| ( dev-lang/python:3.7 dev-lang/python:3.6 dev-lang/python:3.5 dev-lang/python:3.4 ) sys-devel/bison sys-devel/flex sys-apps/gawk virtual/pkgconfig sys-libs/readline:= virtual/libffi dev-vcs/git dev-lang/tcl:= dev-vcs/mercurial >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=|| ( dev-lang/python:3.7 dev-lang/python:3.6 dev-lang/python:3.5 ) sys-devel/bison sys-devel/flex sys-apps/gawk virtual/pkgconfig sys-libs/readline:= virtual/libffi dev-vcs/git dev-lang/tcl:= dev-vcs/mercurial >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Yosys - Yosys Open SYnthesis Suite
 EAPI=6
 HOMEPAGE=http://www.clifford.at/icestorm/
 LICENSE=ISC
 RDEPEND=sys-libs/readline:= virtual/libffi dev-vcs/git dev-lang/tcl:= dev-vcs/mercurial
 SLOT=0
-_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	b2f01ad412baf81650c23fcf0975fa33	preserve-libs	ef207dc62baddfddfd39a164d9797648	python-any-r1	4900ae970f827a22d33d41bd8b8f9ace	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	b2f01ad412baf81650c23fcf0975fa33	preserve-libs	ef207dc62baddfddfd39a164d9797648	python-any-r1	4900ae970f827a22d33d41bd8b8f9ace	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
 _md5_=6a83bdb1876125273b1f89238b2e6304
