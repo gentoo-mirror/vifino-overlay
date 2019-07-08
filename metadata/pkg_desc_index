@@ -1,4 +1,3 @@
-dev-util/rebar3 3.3.4: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 media-libs/libsdl2 2.0.9: Simple Direct Media Layer
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
 sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
