@@ -2,6 +2,21 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-lang/rubinius:llvm - Build with llvm. Currently the package only builds against old versions of llvm.
+dev-lang/ruby:jemalloc - Use dev-libs/jemalloc for memory allocation.
+dev-lang/ruby:rdoc - Install dev-ruby/rdoc after installing Ruby.
+dev-lang/ruby:readline - Use the sys-libs/readline library to provide the readline extension, used for instance by the irb tool. This flag is meaningful only if the libedit USE flag is disabled. If neither libedit nor readline USE flags are enabled, the readline extension will not be built (and irb will lose line editing functionality).
+dev-lang/ruby:rubytests - Install ruby tests that can only be run after ruby is installed
+dev-qt/qtnetwork:bindist - Disable EC support via dev-libs/openssl
+dev-qt/qtnetwork:connman - Enable net-misc/connman-based bearer plugin
+dev-qt/qtnetwork:libproxy - Use net-libs/libproxy for automatic HTTP/SOCKS proxy configuration
+dev-qt/qtnetwork:libressl - Use dev-libs/libressl instead of dev-libs/openssl
+dev-qt/qtnetwork:networkmanager - Enable net-misc/networkmanager-based bearer plugin
+games-action/minetest:leveldb - Enable LevelDB backend
+games-action/minetest:luajit - Use dev-lang/luajit instead of dev-lang/lua
+games-action/minetest:redis - Enable redis backend via dev-libs/hiredis
+games-action/minetest:server - Build minetest server
+games-action/minetest:spatial - Enable SpatialIndex AreaStore backend
 media-libs/libsdl2:gles - include OpenGL ES support
 media-libs/libsdl2:haptic - Enable the haptic (force feedback) subsystem
 media-libs/libsdl2:jack - Enable JACK Audio support
@@ -11,4 +26,29 @@ media-libs/libsdl2:sound - Control audio support (disable at your own risk)
 media-libs/libsdl2:tslib - Build with tslib support for touchscreen devices
 media-libs/libsdl2:video - Control video support (disable at your own risk)
 media-libs/libsdl2:vulkan - Enable Vulkan support
+net-libs/nodejs:bundled-ssl - Use bundled SSL instead of system SSL
+net-libs/nodejs:inspector - Enable V8 inspector
+net-libs/nodejs:npm - Enable NPM package manager
+net-libs/nodejs:snapshot - Enable snapshot creation for faster startup
+net-libs/nodejs:systemtap - Enable SystemTAP/DTrace tracing
 net-libs/wvstreams:boost - Use dev-libs/boost to provide TR1-compatible functional interface. This USE flag is only needed with GCC earlier than version 4.1, or with other compilares not providing said interface.
+net-wireless/aircrack-ng:airdrop-ng - Build airdrop-ng
+net-wireless/aircrack-ng:airgraph-ng - Build airgraph-ng
+net-wireless/aircrack-ng:experimental - Build the "experimental" tools which may randomly fail to run properly
+net-wireless/aircrack-ng:libressl - Use dev-libs/libressl instead of dev-libs/openssl for cryptography
+net-wireless/aircrack-ng:netlink - Use netlink for channel control instead of WEXT
+net-wireless/aircrack-ng:unstable - Build the "unstable" tools which may randomly fail to run properly
+sci-electronics/kicad:github - Add github support into PCB editor
+sci-electronics/kicad:i18n - Allow GUI internationalization through l10n_* use flags
+sci-electronics/kicad:minimal - Build only binaries without parts library and examples
+sci-electronics/kicad:ngspice - Enable circuit simulation
+sci-electronics/kicad:occ - Enable viewing 3D rendering of designs via opencascade
+sci-electronics/kicad:oce - Enable viewing 3D rendering of designs via OCE
+sci-electronics/kicad:python - Enable python scripting support
+sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
+sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
+sys-apps/nix:sodium - Use dev-libs/libsodium for cryptography
+sys-apps/pacman:doc - Install extended documentation using app-doc/doxygen. (Man pages are included by default.)
+sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
+www-client/luakit:luajit - Use the lua just-in-time compiler dev-lang/luajit instead of dev-lang/lua, which should make luakit faster.
+www-client/luakit:pax_kernel - Use paxctl to mark the luakit binary.
