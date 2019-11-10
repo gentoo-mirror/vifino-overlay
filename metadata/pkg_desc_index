@@ -13,6 +13,7 @@ dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
 dev-util/radare2 9999: Advanced command line hexadecimal editor and more
 dev-util/rebar3 3.3.4 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
+media-libs/libglvnd 9999: The GL Vendor-Neutral Dispatch library
 media-libs/libsdl2 2.0.9: Simple Direct Media Layer
 net-libs/nodejs 10.12.0: A JavaScript runtime built on Chrome's V8 JavaScript engine
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
@@ -30,6 +31,7 @@ sys-apps/pacman 5.0.2-r1: Archlinux's binary package manager
 sys-auth/pam_mount 2.16: A PAM module that can mount volumes for a user session
 sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
 www-client/luakit 9999: fast, small, webkit-gtk based micro-browser extensible by lua
+x11-base/xorg-server 1.20.5-r1: X.Org X servers
 x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
 x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
 x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'

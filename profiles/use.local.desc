@@ -52,3 +52,15 @@ sys-apps/pacman:doc - Install extended documentation using app-doc/doxygen. (Man
 sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
 www-client/luakit:luajit - Use the lua just-in-time compiler dev-lang/luajit instead of dev-lang/lua, which should make luakit faster.
 www-client/luakit:pax_kernel - Use paxctl to mark the luakit binary.
+x11-base/xorg-server:dmx - Build the Distributed Multiheaded X server
+x11-base/xorg-server:elogind - Use elogind to get control over framebuffer when running as regular user
+x11-base/xorg-server:fop - Support for generating pdf documentation using dev-java/fop
+x11-base/xorg-server:glamor - Enable Glamor OpenGL 2D acceleration
+x11-base/xorg-server:kdrive - Build the kdrive X servers
+x11-base/xorg-server:libglvnd - Use libglvnd for dispatch.
+x11-base/xorg-server:unwind - Enable libunwind usage for backtraces
+x11-base/xorg-server:xcsecurity - Build Security extension
+x11-base/xorg-server:xephyr - Build the Xephyr server
+x11-base/xorg-server:xnest - Build the Xnest server
+x11-base/xorg-server:xorg - Build the Xorg X server (HIGHLY RECOMMENDED)
+x11-base/xorg-server:xvfb - Build the Xvfb server
