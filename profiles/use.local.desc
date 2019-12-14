@@ -2,6 +2,10 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-misc/vesc_tool:bluetooth - Enable support for bluetooth connection to VESCs
+app-misc/vesc_tool:can - Enable support for CAN connection to VESCs
+app-misc/vesc_tool:gps - Enable positioning support
+app-misc/vesc_tool:libressl - Use LibreSSL instead of OpenSSL
 dev-lang/rubinius:llvm - Build with llvm. Currently the package only builds against old versions of llvm.
 dev-lang/ruby:jemalloc - Use dev-libs/jemalloc for memory allocation.
 dev-lang/ruby:rdoc - Install dev-ruby/rdoc after installing Ruby.
