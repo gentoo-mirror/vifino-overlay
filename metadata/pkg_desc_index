@@ -7,6 +7,7 @@ dev-lang/elixir 1.4.0: Elixir programming language
 dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
 dev-lang/ruby 2.1.10: An object-oriented scripting language
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
+dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
 dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/daemonize 2.4.7: daemonize is a library for writing system daemons in Python
 dev-qt/qtnetwork 5.10.1: Network abstraction library for the Qt5 framework
