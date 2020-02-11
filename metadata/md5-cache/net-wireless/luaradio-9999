@@ -9,5 +9,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=>=dev-lang/luajit-2.0.4 rt? ( sci-libs/volk sci-libs/liquid-dsp sci-libs/fftw )
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
 _md5_=c350a8146a59e0c80d5fd94ee9e27278
