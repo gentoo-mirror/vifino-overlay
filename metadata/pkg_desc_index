@@ -1,4 +1,4 @@
-app-misc/openrazer 9999: Razer Drivers for Linux
+app-misc/openrazer 9999: Drivers for Razer peripherals on GNU/Linux
 app-misc/polychromatic 9999: A graphical front end for managing Razer peripherals under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
 dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
