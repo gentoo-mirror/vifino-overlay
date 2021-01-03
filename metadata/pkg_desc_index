@@ -10,6 +10,7 @@ dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and 
 dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
 dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
+dev-python/d2to1 0.2.12_p1-r1: Allows using distutils2-like setup.cfg files for a package metadata
 dev-python/daemonize 2.4.7 2.5.0: Library for writing system daemons in Python
 dev-qt/qtnetwork 5.10.1: Network abstraction library for the Qt5 framework
 dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
