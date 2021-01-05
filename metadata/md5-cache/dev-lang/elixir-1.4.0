@@ -8,5 +8,5 @@ LICENSE=Apache-2.0 ErlPL-1.1
 RDEPEND=>=dev-lang/erlang-18[ssl]
 SLOT=0
 SRC_URI=https://github.com/elixir-lang/elixir/archive/v1.4.0.tar.gz -> elixir-1.4.0.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
 _md5_=ea98f19bb2f20ebf35aca4f0102f4ab9
