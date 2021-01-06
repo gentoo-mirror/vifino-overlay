@@ -1,5 +1,7 @@
 app-misc/openrazer 9999: Drivers for Razer peripherals on GNU/Linux
 app-misc/polychromatic 9999: A graphical front end for managing Razer peripherals under GNU/Linux.
+app-misc/razer-test 9999: A work-in-progress replacement for OpenRazer
+app-misc/razergenie 9999: Qt application for configuring your Razer devices under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
 dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/yosys 0.8 9999: Yosys - Yosys Open SYnthesis Suite
@@ -8,6 +10,7 @@ dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for spe
 dev-lang/ruby 2.1.10: An object-oriented scripting language
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
 dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
+dev-libs/libopenrazer 9999: Qt wrapper around the D-Bus API from OpenRazer
 dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
 dev-python/d2to1 0.2.12_p1-r1: Allows using distutils2-like setup.cfg files for a package metadata
