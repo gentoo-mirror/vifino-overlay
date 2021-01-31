@@ -22,15 +22,12 @@ dev-util/rebar3 3.3.4 9999: Erlang build tool that makes it easy to compile and 
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
 media-libs/libglvnd 9999: The GL Vendor-Neutral Dispatch library
 media-libs/libsdl2 2.0.9 2.0.10: Simple Direct Media Layer
-net-libs/nodejs 10.12.0: A JavaScript runtime built on Chrome's V8 JavaScript engine
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
 net-misc/batctl 2016.5: BATMAN advanced control and management tool
 net-misc/batman-adv 2016.5: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
-net-wireless/aircrack-ng 1.2_rc4: WLAN tools for breaking 802.11 WEP/WPA keys
 net-wireless/luaradio 9999: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
 net-wireless/soapyremote 9999: remote support for Soapy SDR
 net-wireless/soapyuhd 9999: Soapy SDR plugins for UHD devices
-sci-electronics/kicad 5.0.1: Electronic Schematic and PCB design tools
 sci-libs/liquid-dsp 9999: Software-Defined Radio Digital Signal Processing Library
 sci-libs/volk 9999: vector optimized library of kernels
 sys-apps/nix 1.11.6-r1: A purely functional package manager
