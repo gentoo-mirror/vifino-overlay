@@ -5,37 +5,28 @@ app-misc/razergenie 9999: Qt application for configuring your Razer devices unde
 app-misc/vesc_tool 9999: VESC Tool
 dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/yosys 0.8 9999: Yosys - Yosys Open SYnthesis Suite
-dev-lang/elixir 1.4.0: Elixir programming language
 dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
-dev-lang/ruby 2.1.10: An object-oriented scripting language
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
 dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
 dev-libs/libopenrazer 9999: Qt wrapper around the D-Bus API from OpenRazer
-dev-nodejs/less 2.7.1: Leaner CSS
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
 dev-python/d2to1 0.2.12_p1-r1: Allows using distutils2-like setup.cfg files for a package metadata
 dev-python/daemonize 2.4.7 2.5.0: Library for writing system daemons in Python
 dev-qt/qtnetwork 5.10.1: Network abstraction library for the Qt5 framework
 dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
 dev-util/radare2 9999: Advanced command line hexadecimal editor and more
-dev-util/rebar3 3.3.4 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
+dev-util/rebar3 3.3.4 3.14.3 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
-media-libs/libglvnd 9999: The GL Vendor-Neutral Dispatch library
-media-libs/libsdl2 2.0.9 2.0.10: Simple Direct Media Layer
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
-net-misc/batctl 2016.5: BATMAN advanced control and management tool
-net-misc/batman-adv 2016.5: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
+net-misc/batctl 2016.5 2020.0: BATMAN advanced control and management tool
+net-misc/batman-adv 2016.5 2020.0: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
 net-wireless/luaradio 9999: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
-net-wireless/soapyremote 9999: remote support for Soapy SDR
-net-wireless/soapyuhd 9999: Soapy SDR plugins for UHD devices
 sci-libs/liquid-dsp 9999: Software-Defined Radio Digital Signal Processing Library
 sci-libs/volk 9999: vector optimized library of kernels
 sys-apps/nix 1.11.6-r1: A purely functional package manager
 sys-apps/pacman 5.0.2-r1: Archlinux's binary package manager
-sys-auth/pam_mount 2.16: A PAM module that can mount volumes for a user session
 sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
 www-client/luakit 9999: fast, small, webkit-gtk based micro-browser extensible by lua
-x11-base/xorg-server 1.20.5-r1: X.Org X servers
 x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
 x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
 x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'
