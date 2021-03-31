@@ -3,11 +3,12 @@ DEPEND=virtual/pkgconfig sys-apps/help2man pax_kernel? ( sys-apps/elfix ) luajit
 DESCRIPTION=fast, small, webkit-gtk based micro-browser extensible by lua
 EAPI=5
 HOMEPAGE=http://mason-larobina.github.com/luakit/
+INHERIT=toolchain-funcs git-r3
 IUSE=luajit pax_kernel vim-syntax +libunique
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=luajit? ( dev-lang/luajit:2 ) !luajit? ( >=dev-lang/lua-5.1 ) dev-db/sqlite:3 dev-libs/glib:2 dev-libs/libunique:1 net-libs/libsoup:2.4 net-libs/webkit-gtk:2 x11-libs/gtk+:2 dev-lua/luafilesystem vim-syntax? ( || ( app-editors/vim app-editors/gvim ) )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=a17f8b24b79b46fd650ba399a6c3ab09

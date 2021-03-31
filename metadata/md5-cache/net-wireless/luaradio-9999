@@ -3,11 +3,12 @@ DEPEND=>=dev-lang/luajit-2.0.4 rt? ( sci-libs/volk sci-libs/liquid-dsp sci-libs/
 DESCRIPTION=LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
 EAPI=5
 HOMEPAGE=http://luaradio.io
+INHERIT=git-r3
 IUSE=+rt
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=>=dev-lang/luajit-2.0.4 rt? ( sci-libs/volk sci-libs/liquid-dsp sci-libs/fftw )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=c350a8146a59e0c80d5fd94ee9e27278

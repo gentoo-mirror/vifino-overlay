@@ -3,10 +3,11 @@ DEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) 
 DESCRIPTION=Advanced command line hexadecimal editor and more
 EAPI=5
 HOMEPAGE=http://www.radare.org
+INHERIT=git-r3
 IUSE=ssl libressl +zip capstone
 LICENSE=LGPL-3
 PROPERTIES=live
 RDEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=77af872e0fc696322b3118519718af0b
