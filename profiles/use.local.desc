@@ -13,11 +13,6 @@ dev-qt/qtnetwork:connman - Enable net-misc/connman-based bearer plugin
 dev-qt/qtnetwork:libproxy - Use net-libs/libproxy for automatic HTTP/SOCKS proxy configuration
 dev-qt/qtnetwork:libressl - Use dev-libs/libressl instead of dev-libs/openssl
 dev-qt/qtnetwork:networkmanager - Enable net-misc/networkmanager-based bearer plugin
-games-action/minetest:leveldb - Enable LevelDB backend
-games-action/minetest:luajit - Use dev-lang/luajit instead of dev-lang/lua
-games-action/minetest:redis - Enable redis backend via dev-libs/hiredis
-games-action/minetest:server - Build minetest server
-games-action/minetest:spatial - Enable SpatialIndex AreaStore backend
 net-libs/wvstreams:boost - Use dev-libs/boost to provide TR1-compatible functional interface. This USE flag is only needed with GCC earlier than version 4.1, or with other compilares not providing said interface.
 sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
 sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).

@@ -3,7 +3,6 @@ app-misc/polychromatic 9999: A graphical front end for managing Razer peripheral
 app-misc/razer-test 9999: A work-in-progress replacement for OpenRazer
 app-misc/razergenie 9999: Qt application for configuring your Razer devices under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
-dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
 dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
 dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
@@ -15,7 +14,6 @@ dev-qt/qtnetwork 5.10.1: Network abstraction library for the Qt5 framework
 dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
 dev-util/radare2 9999: Advanced command line hexadecimal editor and more
 dev-util/rebar3 3.3.4 3.14.3 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
-games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
 net-libs/wvstreams 4.6.1-r4: A network programming library in C++
 net-misc/batctl 2016.5 2020.0: BATMAN advanced control and management tool
 net-misc/batman-adv 2016.5 2020.0: Better approach to mobile Ad-Hoc networking on layer 2 kernel module
@@ -30,7 +28,6 @@ x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's p
 x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
 x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'
 x11-misc/polybar 9999: A fast and easy-to-use tool for creating status bars.
-x11-misc/synergy 1.10.1 1.11.1 2.0.12: Lets you easily share a single mouse and keyboard between multiple computers
 x11-misc/wmutils-core 9999: Set of window manipulation tools
 x11-misc/wmutils-opt 9999: Optional addons to wmutils-core
 x11-misc/xrq 9999: X Resource Query, A program for querying the X Resources Database from the command line
