@@ -9,5 +9,5 @@ LICENSE=LGPL-3
 PROPERTIES=live
 RDEPEND=ssl? ( !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl ) ) zip? ( sys-libs/zlib dev-libs/libzip ) capstone? ( dev-libs/capstone )
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=77af872e0fc696322b3118519718af0b
