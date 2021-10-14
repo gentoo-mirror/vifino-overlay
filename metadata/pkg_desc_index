@@ -1,5 +1,5 @@
 app-misc/openrazer 3.1.0 9999: Drivers for Razer peripherals on GNU/Linux
-app-misc/polychromatic 9999: A graphical front end for managing Razer peripherals under GNU/Linux.
+app-misc/polychromatic 9999: Polychromatic is a frontend for OpenRazer that enables Razer devices to control lighting effects and more on GNU/Linux.
 app-misc/razer-test 9999: A work-in-progress replacement for OpenRazer
 app-misc/razergenie 0.9.0 9999: Qt application for configuring your Razer devices under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
