@@ -8,11 +8,6 @@ app-misc/vesc_tool:gps - Enable positioning support
 app-misc/vesc_tool:libressl - Use LibreSSL instead of OpenSSL
 dev-lang/rubinius:llvm - Build with llvm. Currently the package only builds against old versions of llvm.
 dev-libs/libnfc:pcsc-lite - Enable NFC drivers that require pcsc-lite
-dev-qt/qtnetwork:bindist - Disable EC support via dev-libs/openssl
-dev-qt/qtnetwork:connman - Enable net-misc/connman-based bearer plugin
-dev-qt/qtnetwork:libproxy - Use net-libs/libproxy for automatic HTTP/SOCKS proxy configuration
-dev-qt/qtnetwork:libressl - Use dev-libs/libressl instead of dev-libs/openssl
-dev-qt/qtnetwork:networkmanager - Enable net-misc/networkmanager-based bearer plugin
 net-libs/wvstreams:boost - Use dev-libs/boost to provide TR1-compatible functional interface. This USE flag is only needed with GCC earlier than version 4.1, or with other compilares not providing said interface.
 sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
 sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
