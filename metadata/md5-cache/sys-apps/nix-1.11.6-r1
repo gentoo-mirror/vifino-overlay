@@ -10,5 +10,5 @@ LICENSE=LGPL-2.1
 RDEPEND=app-arch/bzip2 app-arch/xz-utils dev-db/sqlite !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl ) net-misc/curl sys-libs/zlib gc? ( dev-libs/boehm-gc ) doc? ( dev-libs/libxml2 dev-libs/libxslt app-text/docbook-xsl-stylesheets ) sodium? ( dev-libs/libsodium ) dev-lang/perl:= dev-perl/DBD-SQLite dev-perl/WWW-Curl dev-perl/DBI
 SLOT=0
 SRC_URI=http://nixos.org/releases/nix/nix-1.11.6/nix-1.11.6.tar.xz
-_eclasses_=readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55	user-info	df8c432bdcb3cdcef6c8250f0ab9e4ea	user	cccf4b1f43c35defc6e448e73cc44ca0
+_eclasses_=readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55	user-info	69a1ed744ec33cf2c910ff2bd6084d11	user	ccdfe713e9e8d4a8714f0370512ca086
 _md5_=f1f3b853db3da5692b54b5791d64a73c
