@@ -1,12 +1,9 @@
 app-misc/openrazer 3.1.0 3.2.0 9999: Drivers for Razer peripherals on GNU/Linux
 app-misc/polychromatic 9999: Polychromatic is a frontend for OpenRazer that enables Razer devices to control lighting effects and more on GNU/Linux.
-app-misc/razer-test 9999: A work-in-progress replacement for OpenRazer
-app-misc/razergenie 0.9.0 9999: Qt application for configuring your Razer devices under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
 dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
 dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
-dev-libs/libopenrazer 9999: Qt wrapper around the D-Bus API from OpenRazer
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
 dev-python/d2to1 0.2.12_p1-r2: Allows using distutils2-like setup.cfg files for a package metadata
 dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
