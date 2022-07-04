@@ -6,13 +6,3 @@ app-misc/vesc_tool:bluetooth - Enable support for bluetooth connection to VESCs
 app-misc/vesc_tool:can - Enable support for CAN connection to VESCs
 app-misc/vesc_tool:gps - Enable positioning support
 app-misc/vesc_tool:libressl - Use LibreSSL instead of OpenSSL
-dev-lang/rubinius:llvm - Build with llvm. Currently the package only builds against old versions of llvm.
-dev-libs/libnfc:pcsc-lite - Enable NFC drivers that require pcsc-lite
-net-libs/wvstreams:boost - Use dev-libs/boost to provide TR1-compatible functional interface. This USE flag is only needed with GCC earlier than version 4.1, or with other compilares not providing said interface.
-sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
-sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
-sys-apps/nix:sodium - Use dev-libs/libsodium for cryptography
-sys-apps/pacman:doc - Install extended documentation using app-doc/doxygen. (Man pages are included by default.)
-sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
-www-client/luakit:luajit - Use the lua just-in-time compiler dev-lang/luajit instead of dev-lang/lua, which should make luakit faster.
-www-client/luakit:pax_kernel - Use paxctl to mark the luakit binary.

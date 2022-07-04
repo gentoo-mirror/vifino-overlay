@@ -1,26 +1,11 @@
 app-misc/openrazer 3.2.0 3.3.0 9999: Drivers for Razer peripherals on GNU/Linux
 app-misc/polychromatic 9999: Polychromatic is a frontend for OpenRazer that enables Razer devices to control lighting effects and more on GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
-dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
 dev-libs/appstream-glib 0.6.8: Provides GObjects and helper methods to read and write AppStream metadata
-dev-libs/libnfc 1.7.1: Near Field Communications (NFC) library
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
 dev-python/d2to1 0.2.12_p1-r2: Allows using distutils2-like setup.cfg files for a package metadata
-dev-util/plan9port 9999999: Port of many Plan 9 programs and libraries
-dev-util/radare2 9999: Advanced command line hexadecimal editor and more
-dev-util/rebar3 3.3.4 3.14.3 9999: Erlang build tool that makes it easy to compile and test Erlang applications and releases.
-net-libs/wvstreams 4.6.1-r4: A network programming library in C++
-net-wireless/luaradio 9999: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
-sci-libs/liquid-dsp 9999: Software-Defined Radio Digital Signal Processing Library
-sci-libs/volk 9999: vector optimized library of kernels
-sys-apps/nix 1.11.6-r1: A purely functional package manager
-sys-apps/pacman 5.0.2-r1: Archlinux's binary package manager
-sys-fs/cpmtools 2.20: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
-www-client/luakit 9999: fast, small, webkit-gtk based micro-browser extensible by lua
-x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
+net-wireless/luaradio 9999-r1: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
+sys-fs/cpmtools 2.21: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
 x11-misc/gromit-mpx 9999: Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool.
 x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'
 x11-misc/polybar 9999: A fast and easy-to-use tool for creating status bars.
-x11-misc/wmutils-core 9999: Set of window manipulation tools
-x11-misc/wmutils-opt 9999: Optional addons to wmutils-core
-x11-misc/xrq 9999: X Resource Query, A program for querying the X Resources Database from the command line
