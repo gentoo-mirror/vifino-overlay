@@ -1,4 +1,4 @@
-app-misc/openrazer 3.1.0 3.2.0 9999: Drivers for Razer peripherals on GNU/Linux
+app-misc/openrazer 3.2.0 3.3.0 9999: Drivers for Razer peripherals on GNU/Linux
 app-misc/polychromatic 9999: Polychromatic is a frontend for OpenRazer that enables Razer devices to control lighting effects and more on GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
 dev-lang/rubinius 3.43 3.69: A re-implementation of the Ruby VM designed for speed
