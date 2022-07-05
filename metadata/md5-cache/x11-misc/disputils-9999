@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=x11-libs/libxcb x11-misc/wmutils-core
+DESCRIPTION=utilities for getting info about displays. @tudurom's personal fork
+EAPI=8
+HOMEPAGE=https://github.com/tudurom/disputils
+INHERIT=git-r3
+LICENSE=ISC
+PROPERTIES=live
+RDEPEND=x11-libs/libxcb x11-misc/wmutils-core
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=3e119b6f5e796444a3e4ec6a65cf931d

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=x11-libs/libX11
+DESCRIPTION=X Resource Query, A program for querying the X Resources Database from the command line
+EAPI=8
+HOMEPAGE=https://github.com/arianon/xrq
+INHERIT=git-r3
+LICENSE=ISC
+PROPERTIES=live
+RDEPEND=x11-libs/libX11
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=d0a68d9a24b6877663853b4336849a61
