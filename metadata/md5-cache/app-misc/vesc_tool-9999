@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86 ~arm ~arm64 ~ppc64
 PROPERTIES=live
 RDEPEND=sys-devel/flex sys-devel/bison x11-base/xorg-x11 x11-libs/libxcb virtual/libudev virtual/libusb !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl:0= ) dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtprintsupport:5 dev-qt/qtnetwork:5 dev-qt/qtquickcontrols2:5 dev-qt/qtserialport:5 bluetooth? ( net-wireless/bluez dev-qt/qtbluetooth:5 ) can? ( dev-qt/qtserialbus:5 ) gps? ( dev-qt/qtpositioning:5 )
 SLOT=0/9999
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=72859a3cbf1bb84dc1f78652e55c93c6
