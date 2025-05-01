@@ -1,11 +1,7 @@
-app-misc/openrazer 3.2.0 3.3.0 9999: Drivers for Razer peripherals on GNU/Linux
-app-misc/polychromatic 9999: Polychromatic is a frontend for OpenRazer that enables Razer devices to control lighting effects and more on GNU/Linux.
 app-misc/razer-test 9999: A work-in-progress replacement for OpenRazer
 app-misc/razergenie 0.9.0 9999: Qt application for configuring your Razer devices under GNU/Linux.
 app-misc/vesc_tool 9999: VESC Tool
 dev-libs/libopenrazer 9999: Qt wrapper around the D-Bus API from OpenRazer
-dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
-dev-python/d2to1 0.2.12_p1-r2: Allows using distutils2-like setup.cfg files for a package metadata
 net-wireless/luaradio 9999-r1: LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio
 sys-fs/cpmtools 2.21: This package allows to access CP/M file systems similar to the well-known mtools package, which accesses MSDOS file systems
 x11-misc/disputils 9999: utilities for getting info about displays. @tudurom's personal fork
